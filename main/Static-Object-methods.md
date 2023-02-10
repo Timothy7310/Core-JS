@@ -250,6 +250,6 @@ NaN === NaN // false
 NaN === Number.NaN // false
 ```
 
-
-
-
+## Links
+- [Object Static Methods — Javascript](https://medium.com/@massoud-sharifi/object-static-methods-javascript-4444af635a9f)
+- [4 Static Object Methods I Wish I Knew About Sooner](https://dev.to/sandricoprovo/4-static-object-methods-i-wish-i-knew-about-sooner-3l32)
