@@ -104,3 +104,8 @@ user.name = "Pete";
 delete user.name;
 Object.defineProperty(user, "name", { value: "Pete" });
 ```
+
+## Links
+[Learn JS](https://learn.javascript.ru/property-descriptors)
+[Doka](https://doka.guide/js/descriptors/)
+[MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
