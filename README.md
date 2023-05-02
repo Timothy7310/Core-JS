@@ -20,6 +20,11 @@
 - [Object computed props](https://github.com/Timothy7310/Core-JS/blob/main/main/Object-computed-props.md)
 
 ## React
+### JSX
+- [What is JSX?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/JSX.md#what-is-it)
+- [Is it possible to use React without JSX?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/JSX.md#what-is-it)
+
+
 ### React DOM
 - [What is the virtual DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#what-is-it)
 - [Is the virtual DOM the same as the shadow DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#is-the-virtual-dom-the-same-as-the-shadow-dom)
