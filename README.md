@@ -22,5 +22,5 @@
 ## React
 ### React DOM
 - [What is the virtual DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#what-is-it)
-- [Is the virtual DOM the same as the shadow DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#what-is-it)
-- [What is the difference between the virtual DOM and the real DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#what-is-it)
+- [Is the virtual DOM the same as the shadow DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#is-the-virtual-dom-the-same-as-the-shadow-dom)
+- [What is the difference between the virtual DOM and the real DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#what-is-the-difference-between-the-virtual-dom-and-the-real-dom)
