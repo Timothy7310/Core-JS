@@ -22,7 +22,7 @@
 ## React
 ### JSX
 - [What is JSX?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/JSX.md#what-is-it)
-- [Is it possible to use React without JSX?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/JSX.md#what-is-it)
+- [Is it possible to use React without JSX?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/JSX.md#is-it-possible-to-use-react-without-jsx)
 
 
 ### React DOM
