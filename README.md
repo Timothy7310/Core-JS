@@ -31,9 +31,9 @@
 - [What is the difference between the virtual DOM and the real DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#what-is-the-difference-between-the-virtual-dom-and-the-real-dom)
 
 ### Render
-- [When is a component rendered?]()
-- [How not to render on props change?]()
-- [Is it OK to use arrow functions in render methods?]()
+- [When is a component rendered?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Render.md#when-is-a-component-rendered)
+- [How not to render on props change?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Render.md#how-not-to-render-on-props-change)
+- [Is it OK to use arrow functions in render methods?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Render.md#is-it-ok-to-use-arrow-functions-in-render-methods)
 
 ### Interaction between components
 - [How do you pass a value from parent to child?]()
