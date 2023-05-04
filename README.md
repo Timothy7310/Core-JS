@@ -36,11 +36,11 @@
 - [Is it OK to use arrow functions in render methods?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Render.md#is-it-ok-to-use-arrow-functions-in-render-methods)
 
 ### Interaction between components
-- [How do you pass a value from parent to child?]()
-- [How do you pass a value from child to parent?]()
-- [What is prop drilling?]()
-- [Can a child component modify its own props?]()
-- [How do you pass a value from sibling to sibling?]()
+- [How do you pass a value from parent to child?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Interaction-components.md#how-do-you-pass-a-value-from-parent-to-child)
+- [How do you pass a value from child to parent?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Interaction-components.md#how-do-you-pass-a-value-from-child-to-parent)
+- [What is prop drilling?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Interaction-components.md#what-is-prop-drilling)
+- [Can a child component modify its own props?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Interaction-components.md#can-a-child-component-modify-its-own-props)
+- [How do you pass a value from sibling to sibling?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Interaction-components.md#how-do-you-pass-a-value-from-sibling-to-sibling)
 
 ### Lifecycle and State
 - [What is the difference between props and state?]()
