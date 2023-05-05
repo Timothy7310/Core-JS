@@ -54,17 +54,17 @@
 - [What is the proper way to update a ref in a function component?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Ref.md#what-is-the-proper-way-to-update-a-ref-in-a-function-component)
 
 ### Context
-- [What is the difference between the context API and prop drilling?]()
-- [When shouldn't you use the context API?]()
+- [What is the difference between the context API and prop drilling?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Context.md#what-is-the-difference-between-the-context-api-and-prop-drilling)
+- [When shouldn't you use the context API?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Context.md#when-shouldnt-you-use-the-context-api)
 
 ### Redux
-- [Enumerate base principles]()
-- [What is the typical flow of data in a React + Redux app?]()
-- [Benefits of Redux?]()
+- [Enumerate base principles](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Redux.md#enumerate-base-principles)
+- [What is the typical flow of data in a React + Redux app?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Redux.md#what-is-the-typical-flow-of-data-in-a-react--redux-app)
+- [Benefits of Redux?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Redux.md#benefits-of-redux)
 
 ### Other
-- [Is it a good idea to use Math.random for keys?]()
-- [What are the limitations of React?]()
-- [What is a higher order component?]()
-- [What are uncontrolled and controlled components?]()
-- [React optimizations]()
+- [Is it a good idea to use Math.random for keys?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Other.md#is-it-a-good-idea-to-use-mathrandom-for-keys)
+- [What are the limitations of React?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Other.md#what-are-the-limitations-of-react)
+- [What is a higher order component?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Other.md#what-is-a-higher-order-component)
+- [What are uncontrolled and controlled components?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Other.md#what-are-uncontrolled-and-controlled-components)
+- [React optimizations](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Other.md#react-optimizations)
