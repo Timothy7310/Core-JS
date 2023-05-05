@@ -43,10 +43,10 @@
 - [How do you pass a value from sibling to sibling?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Interaction-components.md#how-do-you-pass-a-value-from-sibling-to-sibling)
 
 ### Lifecycle and State
-- [What is the difference between props and state?]()
-- [How does state in a class component differ from state in a functional component?]()
-- [What is the component lifecycle?]()
-- [How do you update lifecycle in function components?]()
+- [What is the difference between props and state?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Lifecycle-%26-State.md#what-is-the-difference-between-props-and-state)
+- [How does state in a class component differ from state in a functional component?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Lifecycle-%26-State.md#how-does-state-in-a-class-component-differ-from-state-in-a-functional-component)
+- [What is the component lifecycle?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Lifecycle-%26-State.md#what-is-the-component-lifecycle)
+- [How do you update lifecycle in function components?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Lifecycle-%26-State.md#how-do-you-update-lifecycle-in-function-components)
 
 ### Ref
 - [What is the difference between refs and state variables?]()
