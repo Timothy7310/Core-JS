@@ -26,9 +26,9 @@
 
 
 ### React DOM
-- [What is the virtual DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#what-is-it)
-- [Is the virtual DOM the same as the shadow DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#is-the-virtual-dom-the-same-as-the-shadow-dom)
-- [What is the difference between the virtual DOM and the real DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/virtual-DOM.md#what-is-the-difference-between-the-virtual-dom-and-the-real-dom)
+- [What is the virtual DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Virtual-DOM.md#what-is-it)
+- [Is the virtual DOM the same as the shadow DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Virtual-DOM.md#is-the-virtual-dom-the-same-as-the-shadow-dom)
+- [What is the difference between the virtual DOM and the real DOM?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Virtual-DOM.md#what-is-the-difference-between-the-virtual-dom-and-the-real-dom)
 
 ### Render
 - [When is a component rendered?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Render.md#when-is-a-component-rendered)
