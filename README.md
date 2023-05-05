@@ -49,9 +49,9 @@
 - [How do you update lifecycle in function components?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Lifecycle-%26-State.md#how-do-you-update-lifecycle-in-function-components)
 
 ### Ref
-- [What is the difference between refs and state variables?]()
-- [When is the best time to use refs?]()
-- [What is the proper way to update a ref in a function component?]()
+- [What is the difference between refs and state variables?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Ref.md#what-is-the-difference-between-refs-and-state-variables)
+- [When is the best time to use refs?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Ref.md#when-is-the-best-time-to-use-refs)
+- [What is the proper way to update a ref in a function component?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Ref.md#what-is-the-proper-way-to-update-a-ref-in-a-function-component)
 
 ### Context
 - [What is the difference between the context API and prop drilling?]()
