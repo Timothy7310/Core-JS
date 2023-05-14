@@ -185,6 +185,7 @@ return {
 ![схема](https://d33wubrfki0l68.cloudfront.net/01cc198232551a7e180f4e9e327b5ab22d9d14e7/b33f4/assets/images/reduxdataflowdiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif)
 
 ## Benefits of Redux?
+Легко передовать состояния между компонентами
 
 ## Links
 + [Redux и все-все-все](https://hawkingbros.com/article/redux-i-vse-vse-vse)
@@ -192,3 +193,4 @@ return {
 + [Three Principles](https://redux.js.org/understanding/thinking-in-redux/three-principles)
 + [Поток данных (Data Flow)](https://rajdee.gitbooks.io/redux-in-russian/content/docs/basics/DataFlow.html)
 + [Redux Fundamentals, Part 2: Concepts and Data Flow](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
++ [Technical benefits of using Redux.](https://fintelics.medium.com/technical-benefits-of-using-redux-f7d345e7cc9c)
