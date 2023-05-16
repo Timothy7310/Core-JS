@@ -105,6 +105,9 @@ const Sibling2 = ({ value}) => {
 ```
 
 ## What is prop drilling?
+`Prop drilling` это когда создаем **цепочку** `props` например от компонента `<App />` до условного компонента `<AwesomeButton />`.   
+В следвствие чего мы прокидываем `props` через компоненты которые не изпользуются данные `props`, а нужны только для того чтобы прокинуть `props` от `<App />` до `<AwesomeButton />`.   
+Из-за этого происходит ненужный `re-render` компонентов, которые не используют данные `props`, а просто их прокидывают, также это введет к разрастания кода и трудной читаемости `props`.
 
 ## Can a child component modify its own props?
 **НЕТ**. Компонент может обновлять свой `state`, но не может изменять свои `props`.  
@@ -115,4 +118,4 @@ const Sibling2 = ({ value}) => {
 + [Как передавать данные между компонентами в ReactJS](https://it-dev-journal.ru/articles/kak-peredavat-dannye-mezhdu-komponentami-v-react-js)
 + [Как ПРАВИЛЬНО передать данные между компонентами React?](https://www.youtube.com/watch?v=Cc2n4EOUzW4)
 + [React (продвинутый)`Props drilling`](https://www.youtube.com/live/HDajDASxn-w?feature=share&t=4980)
-
++ [Prop Drilling](https://kentcdodds.com/blog/prop-drilling)
