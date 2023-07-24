@@ -59,11 +59,11 @@
 - [Understand variables and Function arguments destructuring assignment](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Intermediate.md#understand-variables-and-function-arguments-destructuring-assignment)
 
 #### Modules in JavaScript
-- [What is module / module pattern? For what purposes they were created?]()
-- [Modules types (AMD, ES6, CommonJS, UMD).]()
-- [Modules syntax.]()
-- [Common modules features (export default, named exports, exports as, etc).]()
-- [Dynamic imports.]()
+- [What is module / module pattern? For what purposes they were created?](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Modules.md#what-is-module--module-pattern-for-what-purposes-they-were-created)
+- [Modules types (AMD, ES6, CommonJS, UMD).](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Modules.md#modules-types-amd-es6-commonjs-umd)
+- [Modules syntax.](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Modules.md#modules-syntax)
+- [Common modules features (export default, named exports, exports as, etc).](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Modules.md#common-modules-features-export-default-named-exports-exports-as-etc)
+- [Dynamic imports.](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Modules.md#dynamic-imports)
 
 #### Advanced Functions
 - [`this` in functions]()
