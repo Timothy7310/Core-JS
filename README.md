@@ -19,6 +19,155 @@
 
 - [Object computed props](https://github.com/Timothy7310/Core-JS/blob/main/main/Object-computed-props.md)
 
+
+## CoreJS
+### JavaScript
+#### Objects Built-in methods
+- [Know static Object methods](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Objects-Methods.md#know-static-object-methods)
+- [Property flags & descriptors (student is able to set property via Object. defineProperty)](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Objects-Methods.md#know-static-object-methods)
+
+#### ECMAScript Data Types & Expressions
+- [Object computed props](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Data-Types-%26-Expressions.md#object-computed-props)
+- [Be able to loop through Object keys](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Data-Types-%26-Expressions.md#be-able-to-loop-through-object-keys)
+
+#### Functional Scope
+- [Know global scope and functional scope](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Functional-Scope.md#know-global-scope-and-functional-scope)
+- [Know variables visibility areas](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Functional-Scope.md#know-variables-visibility-areas)
+- [Understand nested scopes and able work with them](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Functional-Scope.md#understand-nested-scopes-and-able-work-with-them)
+
+#### Functions Parameters / Arguments
+- [Know how to define Function parameters](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Functions-Parameters.md#know-how-to-define-function-parameters)
+- [Know difference between parameters passing by value and by reference](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Functions-Parameters.md#know-difference-between-parameters-passing-by-value-and-by-reference)
+- [Know how to handle dynamic amount of Function parameters](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Functions-Parameters.md#know-how-to-handle-dynamic-amount-of-function-parameters)
+
+#### Closures Advanced
+- [Context (lexical environment)](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Closures-Advanced.md#context-lexical-environment)
+- [Understand function creation context (lexical environment)](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Closures-Advanced.md#understand-function-creation-context-lexical-environment)
+- [Be able to explain difference between scope and context](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Closures-Advanced.md#be-able-to-explain-difference-between-scope-and-context)
+- [Inner/outer lexical environment](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Closures-Advanced.md#innerouter-lexical-environment)
+- [Understand lexical environment traversing mechanism](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Closures-Advanced.md#understand-lexical-environment-traversing-mechanism)
+- [Understand connection between function and lexical environment](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Closures-Advanced.md#understand-connection-between-function-and-lexical-environment)
+
+#### ECMAScript Intermediate
+- [Function default parameters](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Intermediate.md#function-default-parameters)
+- [Know how to use spread operator for Function arguments](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Intermediate.md#know-how-to-use-spread-operator-for-function-arguments)
+- [Be able to compare `arguments` and `rest parameters`](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Intermediate.md#be-able-to-compare-arguments-and-rest-parameters)
+- [Spread operator for Array](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Intermediate.md#spread-operator-for-array)
+- [Understand and able to use spread operator for Array concatenation](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Intermediate.md#understand-and-able-to-use-spread-operator-for-array-concatenation)
+- [Destructuring assignment](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Intermediate.md#destructuring-assignment)
+- [Be able to discover destructuring assignment concept](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Intermediate.md#be-able-to-discover-destructuring-assignment-concept)
+- [Understand variables and Function arguments destructuring assignment](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Intermediate.md#understand-variables-and-function-arguments-destructuring-assignment)
+
+#### Modules in JavaScript
+- [What is module / module pattern? For what purposes they were created?]()
+- [Modules types (AMD, ES6, CommonJS, UMD).]()
+- [Modules syntax.]()
+- [Common modules features (export default, named exports, exports as, etc).]()
+- [Dynamic imports.]()
+
+#### Advanced Functions
+- [`this` in functions]()
+- [Reference Type & losing `this`]()
+- [Understand difference between function and method]()
+- [Understand how `this` works, realize `this` possible issues]()
+- [Manage `this`]()
+- [Be able to replace `this` value]()
+- [Be able to use `call` and `apply` Function built-in methods]()
+- [Know how to bind `this` scope to function]()
+- [Binding, binding one function twice]()
+
+#### Functional Patterns
+- [Callback (Function as argument)]()
+- [Know callback pattern]()
+- [Carrying and partial functions]()
+
+#### Object Oriented Programming
+- [`new` keyword]()
+- [Understand how `new` keyword works]()
+- [Function constructor]()
+- [Know function constructor concept]()
+- [Able to create constructor functions]()
+- [Public, private, static members]()
+- [Know how to create public/static/private members]()
+
+#### ECMAScript Classes
+- [Class declaration]()
+- [Know `class` declaration syntax]()
+- [Understand difference between `class` and `constructor function`]()
+- [Getter/setter]()
+- [What does `super()` do and where we have to use it?]()
+
+#### Prototypal Inheritance Basics
+- [`__proto__ ` property]()
+- [Understand `__proto__` object property]()
+- [Able to use `[Object.create]` and define `__proto__` explicitly]()
+- [`prototype` property]()
+- [Know function `prototype` property]()
+- [Understand dependency between function constructor `prototype` and instance `__proto__`]()
+- [Able to create `'class'` methods using function `prototype` property]()
+
+#### ECMAScript Advanced Data Types & Expressions
+- [`Set/Map` data types]()
+- [`WeakSet/WeakMap` data types]()
+
+#### JavaScript Errors
+- [JavaScript Errors (throw, Error class)]()
+- [`try..catch` statement]()
+- [Error handling]()
+- [Error class]()
+- [Error logging]()
+- [async error events]()
+
+#### ECMAScript Advanced
+- [Promises]()
+- [Promise states]()
+- [Promise chaining]()
+- [Promise static methods]()
+- [Be able to handle errors in promises]()
+- [async/await]()
+- [event loop]()
+
+### JavaScript in Browser
+#### Global object window
+- [Location]()
+- [Know browser location structure]()
+- [History API (Global object window)]()
+- [Know browser History APIconcept]()
+- [Be able to navigate within browser history]()
+- [Know how to discover client platform, browser]()
+- [Cookies]()
+
+#### Page Lifecycle
+- [Parsing]()
+- [Reflow]()
+- [Repaint]()
+
+#### Network requests
+- [`Fetch` (with usage)]()
+
+#### Web Storage API & cookies
+- [Cookies]()
+- [Difference between localStorage, sessionStorage and cookies]()
+
+### Typescript
+#### Ability to write concise TypeScript code using its constructs
+- [basic types]()
+- [enums]()
+- [type / interface, differences between them]()
+- [using interfaces with optional properties, read-only properties, etc...]()
+- [function types]()
+- [creating custom types]()
+- [generic types (concept)]()
+- [understanding TS (ES6) module system]()
+
+### Design patterns
+- [Creational Design Patterns]()
+- [Structural Design Patterns]()
+- [Behavioral Design Patterns]()
+#### Intermediate knowledge of patterns and best practices
+- [SOLID principles]()
+
+
 ## React
 ### JSX
 - [What is JSX?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/JSX.md#what-is-it)
