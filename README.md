@@ -219,5 +219,5 @@
 - [React optimizations](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Other.md#react-optimizations)
 
 ## Вопросы
-- [Отличие интерфейсов от абстрактного класса]()
-- [Размер localStorage]()
+- [Отличие интерфейсов от абстрактного класса](https://github.com/Timothy7310/Core-JS/blob/main/main/question/index.md#отличие-интерфейсов-от-абстрактного-класса)
+- [Размер localStorage](https://github.com/Timothy7310/Core-JS/blob/main/main/question/index.md#размер-localstorage)
