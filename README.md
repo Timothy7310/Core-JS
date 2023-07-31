@@ -217,3 +217,7 @@
 - [What is a higher order component?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Other.md#what-is-a-higher-order-component)
 - [What are uncontrolled and controlled components?](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Other.md#what-are-uncontrolled-and-controlled-components)
 - [React optimizations](https://github.com/Timothy7310/Core-JS/blob/main/main/react/Other.md#react-optimizations)
+
+## Вопросы
+- [Отличие интерфейсов от абстрактного класса]()
+- [Размер localStorage]()
