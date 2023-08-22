@@ -8,10 +8,10 @@
 
 ```js
 const HiWorld = () => (
-	<div>
-    	<h1 className="title"> Hello </h1>
-    	<span>Awesome text</span>
-    </div>
+  <div>
+   <h1 className="title"> Hello </h1>
+    <span>Awesome text</span>
+  </div>
 )
 ```
 
