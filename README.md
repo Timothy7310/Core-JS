@@ -24,7 +24,7 @@
 ### JavaScript
 #### Objects Built-in methods
 - [Know static Object methods](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Objects-Methods.md#know-static-object-methods)
-- [Property flags & descriptors (student is able to set property via Object. defineProperty)](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Objects-Methods.md#know-static-object-methods)
+- [Property flags & descriptors (student is able to set property via Object. defineProperty)](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/Objects-Methods.md#property-flags--descriptors-student-is-able-to-set-property-via-objectdefineproperty)
 
 #### ECMAScript Data Types & Expressions
 - [Object computed props](https://github.com/Timothy7310/Core-JS/blob/main/main/core-js/ECMAScript-Data-Types-%26-Expressions.md#object-computed-props)
