@@ -28,12 +28,12 @@ console.log(isPalindrome("стране нужны паровозы нам нуж
 ## Функция каррирования
 
 ```js
-const curry =
-  (fn) =>
-  (...args) =>
+const curry = (fn) => {
+  return (...args) =>
     args.length >= fn.length
       ? fn(...args)
       : (...args2) => curry(fn)(...args, ...args2);
+};
 
 // Пример
 const sum = (a, b, c) => a + b + c;
